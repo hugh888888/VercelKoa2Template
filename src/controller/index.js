@@ -3,10 +3,10 @@ class wxController {
   async getRedisData(ctx, next) {
     const redisData = await getRedisData();
 
-    if (accessToken) {
-      return ctx.success(accessToken);
+    if (redisData) {
+      return ctx.success(redisData);
     }
-    return ctx.error("accessToken 失效");
+    return ctx.error("redisData失效");
   }
   async addUser(ctx, next) {
     let { name, phone } = ctx.request.query;
