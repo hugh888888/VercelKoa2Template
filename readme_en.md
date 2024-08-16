@@ -57,7 +57,7 @@ vercel dev
 ## 🪡API demo
 
 - [getRedisData](https://template.li-h.me/getRedisData) https://template.li-h.me/getRedisData
-- [getRedisData](https://template.li-h.me/addUser?name=1&phone=2) https://template.li-h.me/addUser
-- [getRedisData](https://template.li-h.me/getList) https://template.li-h.me/getList
+- [addUser](https://template.li-h.me/addUser?name=1&phone=2) https://template.li-h.me/addUser
+- [getList](https://template.li-h.me/getList) https://template.li-h.me/getList
 
 [![Star History Chart](https://api.star-history.com/svg?repos=hugh888888/VercelKoa2Template&type=Date)](https://star-history.com/#hugh888888/VercelKoa2Template&Date)

@@ -1,7 +1,7 @@
 <div align="center">
   <h1>Vercel Koa2 Template</h1>
   <p><a href="https://template.li-h.me/">preview</a> · <a href="https://github.com/hugh888888/VercelKoa2Template/blob/master/readme_en.md">English</a> | 简体中文</p>
-  <p>一个可以在vercel上部署koa2的模板，支持连接redis和mongodb，免费使用vercel搭建后端接口服务，无需要服务器</p>
+  <p>一个可以在vercel上部署koa2的模板，支持连接redis和mongodb，免费使用vercel搭建后端接口服务，无需服务器</p>
 
 </div>
 
@@ -58,8 +58,8 @@ vercel dev
 ## 🪡 接口 demo
 
 - [getRedisData](https://template.li-h.me/getRedisData) https://template.li-h.me/getRedisData
-- [getRedisData](https://template.li-h.me/addUser?name=1&phone=2) https://template.li-h.me/addUser
-- [getRedisData](https://template.li-h.me/getList) https://template.li-h.me/getList
+- [addUser](https://template.li-h.me/addUser?name=1&phone=2) https://template.li-h.me/addUser
+- [getList](https://template.li-h.me/getList) https://template.li-h.me/getList
 
 ## Star History
 
