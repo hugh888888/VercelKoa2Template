@@ -7,7 +7,7 @@
 
 ## 🌈 特点
 
-- 🚀 快速部署，无需服务器
+- 🚀 快速部署，无需服务器 [![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https%3A//github.com/hugh888888/VercelKoa2Template&env=redis_url&env=mongodbUrl)
 - ✈️ 支持连接 redis 和 mongodb
 - ✨ 支持配置自定义域名
 

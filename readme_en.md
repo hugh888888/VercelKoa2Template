@@ -1,12 +1,12 @@
 <div align="center">
   <h1>Vercel Koa2 Template</h1>
-  <p><a href="https://template.li-h.me/">preview</a> · <a href="https://github.com/hugh888888/VercelKoa2Template/blob/main/README_en.md">English</a> | 简体中文</p>
+  <p><a href="https://template.li-h.me/">preview</a> · <a href="https://github.com/hugh888888/VercelKoa2Template/blob/master/readme_en.md">English</a> | 简体中文</p>
   <p>A template for deploying Koa2 on Vercel, supporting connections to Redis and MongoDB. Use Vercel to set up backend API services for free, no server needed.</p>
 </div>
 
 ## 🌈 Features
 
-- 🚀 Quick deployment, no server needed
+- 🚀 Quick deployment, no server needed [![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https%3A//github.com/hugh888888/VercelKoa2Template&env=redis_url&env=mongodbUrl)
 - ✈️ Supports connections to Redis and MongoDB
 - ✨ Supports custom domain configuration
 
