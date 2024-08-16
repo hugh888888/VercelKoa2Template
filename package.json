@@ -1,6 +1,6 @@
 {
-  "name": "test6",
-  "version": "0.1.0",
+  "name": "vercel_koa2_template",
+  "version": "0.0.1",
   "private": true,
   "scripts": {
     "start": "node index.js --watch",
@@ -33,5 +33,6 @@
   },
   "devDependencies": {
     "nodemon": "^1.19.1"
-  }
+  },
+  "author": "li-h"
 }
