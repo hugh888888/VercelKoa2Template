@@ -1,11 +1,6 @@
 {
   "builds": [{ "src": "index.js", "use": "@vercel/node" }],
-  "crons": [
-    // {
-    //   "path": "/autoSign",
-    //   "schedule": "45 4 * * *"
-    // }
-  ],
+  "crons": [],
   "routes": [
     {
       "src": "/(.*)",
